@@ -1,3 +1,4 @@
 # SCRIPTS
-# author: Daniel Lopez
+author: Daniel Lopez
+-----------------------------
 Some scripts of Linux
