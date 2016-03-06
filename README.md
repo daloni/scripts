@@ -1,4 +1,4 @@
 # SCRIPTS
-author: Daniel Lopez
+**Author: Daniel Lopez**
 
 Some scripts of Linux
