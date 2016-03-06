@@ -2,4 +2,4 @@
 **Author: Daniel Lopez**
 
 Installation and configuration of the DHCP server in Linux Server or Desktop. 
-Also configuration the network
+Also configuration the of network
